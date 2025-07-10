@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/categories/route": "/api/categories",
+  "/api/callback/route": "/api/callback",
+  "/api/logout/route": "/api/logout",
+  "/api/products/route": "/api/products",
+  "/api/user/route": "/api/user",
+  "/favicon.ico/route": "/favicon.ico",
+  "/unauthorized/page": "/unauthorized",
+  "/page": "/"
+}
